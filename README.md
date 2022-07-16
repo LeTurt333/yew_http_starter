@@ -2,7 +2,7 @@
 
 ### What is this?
 
-A [Yew](https://github.com/yewstack) template with http messaging ready to go
+A [Yew](https://github.com/yewstack) starter template with simple HTTP message
 
 #### What you need
 
