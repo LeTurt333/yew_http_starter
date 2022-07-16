@@ -1,0 +1,15 @@
+[package]
+name = "yew_http_starter"
+version = "0.1.0"
+edition = "2021"
+authors = ["https://github.com/leturt333"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yew = "0.19.3"
+wasm-bindgen = { version = "0.2.81", default-features = false, features = ["serde-serialize"] }
+serde = { version = "1.0.137", default-features = false, features = ["derive"] }
+web-sys = { version = "0.3.58", features = ["Response"] }
+gloo-net = { version = "0.2.3", default-features = false, features = ["http", "json"] }
+wasm-bindgen-futures = "0.4.31"
