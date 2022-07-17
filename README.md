@@ -2,9 +2,11 @@
 
 ### What is this?
 
-A [Yew](https://github.com/yewstack) template with http messaging ready to go
+A [Yew](https://github.com/yewstack) starter template with a simple HTTP message built in.
 
-#### What you need
+App.rs (where a majority of the code is) has some useful comments to understand the structure of the template.
+
+#### What you will need
 
  - [Rust](https://doc.rust-lang.org/book/ch01-01-installation.html)
  - [Trunk](https://crates.io/crates/trunk) - Wasm web app bundler 
