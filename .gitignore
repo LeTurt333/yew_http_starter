@@ -1,5 +1,7 @@
 /target
 
+/dist
+
 **/*.rs.bk
 
 .DS_Store
